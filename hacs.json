@@ -1,0 +1,7 @@
+{
+  "name": "CTM 电信套餐卡片（多账号）",
+  "filename": "ctm-telecom-accounts-card.js",
+  "content_in_root": true,
+  "render_readme": true,
+  "homeassistant": "2024.1.0"
+}
